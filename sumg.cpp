@@ -5,7 +5,7 @@ int main()
     int a,b;
     cin>>a>>b;
 
-    cout<<a+b;
+    cout<<"the sum is "<<a+b;
 
     return 0;
 }
